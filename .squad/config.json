@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "stateBackend": "local",
+  "defaultModel": "claude-sonnet-4.6",
+  "coordinatorModel": "claude-haiku-4.5",
+  "agentModelOverrides": {
+    "spec-kit-expert": "claude-opus-4.8",
+    "planner": "claude-opus-4.8",
+    "implementer": "claude-sonnet-4.6",
+    "tester": "claude-haiku-4.5",
+    "admin": "claude-haiku-4.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "agents": {
+    "spec-kit-expert": { "persistent_name": "Spec-kit Expert", "universe": "descriptive", "role": "SDD Owner", "created_at": "2026-08-23T12:26:53+02:00", "legacy_named": false, "status": "active" },
+    "planner": { "persistent_name": "Planner", "universe": "descriptive", "role": "Architecture", "created_at": "2026-08-23T12:26:53+02:00", "legacy_named": false, "status": "active" },
+    "implementer": { "persistent_name": "Implementer", "universe": "descriptive", "role": "Coding", "created_at": "2026-08-23T12:26:53+02:00", "legacy_named": false, "status": "active" },
+    "tester": { "persistent_name": "Tester", "universe": "descriptive", "role": "Smoke Test", "created_at": "2026-08-23T12:26:53+02:00", "legacy_named": false, "status": "active" },
+    "admin": { "persistent_name": "Admin", "universe": "descriptive", "role": "Housekeeping", "created_at": "2026-08-23T12:26:53+02:00", "legacy_named": false, "status": "active" }
+  }
+}
