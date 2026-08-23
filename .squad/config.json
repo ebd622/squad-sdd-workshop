@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "models": {
+    "coordinator": "claude-haiku-4.5",
+    "admin": "claude-haiku-4.5",
+    "sloth": "claude-opus-4.8",
+    "data": "claude-sonnet-4.6",
+    "mouth": "claude-haiku-4.5"
+  }
+}

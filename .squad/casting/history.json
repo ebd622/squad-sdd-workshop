@@ -1,0 +1,21 @@
+{
+  "universe_usage_history": [
+    {
+      "universe": "The Goonies",
+      "assigned_at": "2026-08-23T20:14:04Z",
+      "roles": ["Spec-kit Expert", "Implementer", "Tester"]
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "assignment-001": {
+      "assignment_id": "assignment-001",
+      "created_at": "2026-08-23T20:14:04Z",
+      "universe": "The Goonies",
+      "cast": {
+        "Spec-kit Expert": "Sloth",
+        "Implementer": "Data",
+        "Tester": "Mouth"
+      }
+    }
+  }
+}

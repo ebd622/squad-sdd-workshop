@@ -1,0 +1,28 @@
+{
+  "agents": {
+    "sloth": {
+      "persistent_name": "Sloth",
+      "role": "Spec-kit Expert",
+      "universe": "The Goonies",
+      "created_at": "2026-08-23T20:14:04Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "data": {
+      "persistent_name": "Data",
+      "role": "Implementer",
+      "universe": "The Goonies",
+      "created_at": "2026-08-23T20:14:04Z",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "mouth": {
+      "persistent_name": "Mouth",
+      "role": "Tester",
+      "universe": "The Goonies",
+      "created_at": "2026-08-23T20:14:04Z",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
