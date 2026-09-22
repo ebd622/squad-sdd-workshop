@@ -151,3 +151,4 @@ The two tools this workshop is built on, straight from the source:
 
 - **Squad**: [bradygaster.github.io/squad](https://bradygaster.github.io/squad/)
 - **Spec Kit**: [github.github.com/spec-kit](https://github.github.com/spec-kit/)
+- **Community**: [github.com/github/spec-kit/discussions](https://github.com/github/spec-kit/discussions)
